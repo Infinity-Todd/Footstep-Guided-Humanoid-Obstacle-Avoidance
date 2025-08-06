@@ -70,7 +70,7 @@ footstep-humanoid/
 ## 🚀 Usage
 #### **To train:** 
 ```
-python run_experiment.py train --logdir <path_to_exp_dir> --num_procs <num_of_cpu_procs> --env jvrc_obstacle --continued <path_to_the_pretrained model>
+python run_experiment.py train --logdir <path_to_exp_dir> --num_procs <num_of_cpu_procs> --env jvrc_obstacle --continued <path_to_the_pretrained_model>
 ```  
 
 #### **To play:**
