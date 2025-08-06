@@ -85,12 +85,11 @@ mjpython run_experiment.py eval --path logs/obstacle_avoidance_v1/actor_best.pt
 ---
 ## 🖊️Citation
 If you find this work useful in your own research, please cite the following works:
-Papers:
 
+Papers:
 - [**Learning Bipedal Walking On Planned Footsteps For Humanoid Robots**](https://arxiv.org/pdf/2207.12644.pdf)
 
 Code:
-
 - [**LearningHumanoidWalking (GitHub)**](https://github.com/rohanpsingh/LearningHumanoidWalking)
 
 ```bibtex
