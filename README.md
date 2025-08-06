@@ -78,7 +78,7 @@ python run_experiment.py train --logdir <path_to_exp_dir> --num_procs <num_of_cp
 mjpython run_experiment.py eval --logdir <path_to_actor_pt>
 ```
 
-#### **See my Demo:**
+#### **To see my demo:**
 ```
 mjpython run_experiment.py eval --path logs/obstacle_avoidance_v1/actor_best.pt   
 ```
