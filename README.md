@@ -89,6 +89,7 @@ tensorboard --logdir <path to obstacle_avoidance_v1>
 <p align="center">
   <img src="media/Tensorboard.png" alt="Tensorboard" width="720">
 </p>
+
 ---
 ## 🖊️Citation
 If you find this work useful in your own research, please cite the following works:
