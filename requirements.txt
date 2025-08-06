@@ -1,0 +1,31 @@
+# ===== Core dependencies (pinned to match your current environment) =====
+torch==2.5.1
+numpy==2.2.6
+scipy==1.16.0
+gym==0.26.2
+mujoco==3.3.4
+transforms3d==0.4.2
+matplotlib==3.10.5
+tensorboard==2.20.0
+tqdm==4.67.1
+rich==14.0.0
+pyyaml==6.0.2
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
+pillow==11.3.0
+
+# ===== Optional dependencies (uncomment if you need them) =====
+# Visualization and interactive viewers
+mujoco-python-viewer==0.1.4
+glfw==2.9.0
+PyOpenGL==3.1.9
+
+# Distributed / parallel training
+ray==2.40.0
+
+# DeepMind Control Suite (environments & utils)
+dm-control==1.0.22
+
+# PyTorch extras (use only if your code imports them)
+torchvision==0.20.1
+torchaudio==2.5.1
