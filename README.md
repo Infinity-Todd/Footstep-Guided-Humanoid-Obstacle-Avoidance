@@ -80,7 +80,6 @@ mjpython run_experiment.py eval --logdir <path_to_actor_pt>
 #### **See my Demo:**
 ```
 mjpython run_experiment.py eval --path logs/obstacle_avoidance_v1/actor_best.pt   
-
 ```
 ---
 ## 🖊️Citation
