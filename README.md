@@ -25,12 +25,9 @@ This project implements a MuJoCo + PyTorch (SB3) training setup for a **JRVC-1 h
 A trainable JRVC-1 slalom environment with footstep-guided obstacle avoidance.
 
 <p align="center">
-  <video controls playsinline muted loop style="max-width:100%; border-radius:12px;">
-    <source
-      src="https://raw.githubusercontent.com/Infinity-Todd/Footstep-Guided-Humanoid-Obstacle-Avoidance/main/media/slalom_demo.mp4"
-      type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://raw.githubusercontent.com/Infinity-Todd/Footstep-Guided-Humanoid-Obstacle-Avoidance/main/media/slalom_demo.mp4">
+    <img src="media/slalom_demo.gif" alt="JRVC-1 slalom demo" width="720">
+  </a>
   <br><em>JRVC-1 slalom with a footstep plan (MuJoCo)</em>
 </p>
  
